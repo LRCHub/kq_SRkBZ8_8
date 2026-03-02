@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "孤独とランデブー",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T17:33:13.566330Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "孤独とランデブー",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_孤独とランデブー_サンボマスター.txt"
+    }
+  ]
+}
